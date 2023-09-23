@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3ff8c7be.css","mappings":"AAAA,KAII,qBAAsB,CADtB,QAAS,CADT,SAAU,CADV,WAIJ","sources":["styles/Global.css"],"sourcesContent":["body{\r\n    width: 100vw;\r\n    padding: 0;\r\n    margin: 0;\r\n    box-sizing: border-box;\r\n}"],"names":[],"sourceRoot":""}
